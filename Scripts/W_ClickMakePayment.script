@@ -1,0 +1,5 @@
+﻿Show remote
+wait 1
+Click imageName:"MakePayment.png", waitFor:5
+
+

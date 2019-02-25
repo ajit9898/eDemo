@@ -1,0 +1,4 @@
+﻿2019-02-14 10:40:43.437 +0530	START		Running W_CloseApp.script	1	execute string	(null)
+2019-02-14 10:40:43.463 +0530	typetext		[windowsAltKey][F4]	1	on_w_closeapp	W_CloseApp.script
+2019-02-14 10:40:43.466 +0530	EndTestCase		(Duration:"0.025", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:40:43 +0530", Successes:"1", TestCase:"W_CloseApp.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:40:43.607 +0530	SUCCESS		Execution Time 0:00:00 W_CloseApp.script	1	execute string	(null)

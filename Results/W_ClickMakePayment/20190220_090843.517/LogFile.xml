@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="W_ClickMakePayment_script" package="nopBankWindows.suite" timestamp="2019-02-20 09:08:43.517 +0530"
+ tests="1"  failures="0" errors="0" time="4.897000">
+  <properties>
+   <property name="RunDate" value="2019-02-20 09:08:43.517 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="W_ClickMakePayment.script" assertions="1" status="success"  time="4.877">
+  </testcase>
+ </testsuite>
+</testsuites>

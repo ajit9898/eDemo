@@ -1,0 +1,11 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2019-02-14 09:48:12.987 +0530,"Failure",0:00:00,1,0,0,"20190214_094812.987/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'LaunchApp '.",0
+2019-02-14 09:50:04.344 +0530,"Failure",0:00:00,1,0,0,"20190214_095004.344/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'W_LaunchApp '.",0
+2019-02-14 09:50:51.892 +0530,"Failure",0:00:00,1,0,0,"20190214_095051.892/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'W_LaunchApp '.",0
+2019-02-14 09:52:17.508 +0530,"Failure",0:00:40,1,1,0,"20190214_095217.508/LogFile.txt","","Invalid Parameter -- The allKeys, allModifierKeys, and allNonModifierKeys values may only be used with the KeyUp command",0
+2019-02-14 09:53:56.027 +0530,"Aborted",0:00:16,1,0,1,"20190214_095356.027/LogFile.txt","","",0
+2019-02-14 09:54:41.567 +0530,"Failure",0:00:33,1,1,0,"20190214_095441.567/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'LaunchApp '.",0
+2019-02-14 09:55:59.393 +0530,"Success",0:01:23,0,2,0,"20190214_095559.393/LogFile.txt","","",1
+2019-02-25 10:14:42.880 +0530,"Aborted",0:00:28,1,1,1,"20190225_101442.880/LogFile.txt","","",0
+2019-02-25 10:15:38.911 +0530,"Aborted",0:00:29,1,0,1,"20190225_101538.911/LogFile.txt","","",0
+2019-02-25 10:27:33.596 +0530,"Aborted",0:01:06,1,0,1,"20190225_102733.596/LogFile.txt","","",0

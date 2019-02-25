@@ -1,0 +1,4 @@
+﻿show remote
+wait 1
+Click imageName:"Account_MakePayment", waitFor:3
+TypeText "123"

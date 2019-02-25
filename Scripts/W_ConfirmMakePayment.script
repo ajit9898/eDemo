@@ -1,0 +1,3 @@
+﻿Show remote
+wait 1
+Click imageName:"MakePayment_Confirm", waitFor:3

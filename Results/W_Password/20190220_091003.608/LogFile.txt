@@ -1,0 +1,7 @@
+﻿2019-02-20 09:10:03.636 +0530	START		Running W_Password.script	1	execute string	(null)
+2019-02-20 09:10:03.643 +0530	show		remote	1	on_w_password	W_Password.script
+2019-02-20 09:10:08.173 +0530	tap	Password	at (62, 297)	3	on_w_password	W_Password.script
+2019-02-20 09:10:08.936 +0530	typetext		pass1	4	on_w_password	W_Password.script
+2019-02-20 09:10:12.433 +0530	tap	Bank	at (314, 131)	5	on_w_password	W_Password.script
+2019-02-20 09:10:12.436 +0530	EndTestCase		(Duration:"8.795", Errors:"0", Exceptions:"0", StartTime:"2019-02-20 09:10:03 +0530", Successes:"1", TestCase:"W_Password.script", Warnings:"0")	1	execute string	(null)
+2019-02-20 09:10:12.576 +0530	SUCCESS		Execution Time 0:00:09 W_Password.script	1	execute string	(null)

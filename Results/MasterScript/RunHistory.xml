@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<runHistory script="MasterScript">
+ <run>
+  <RunDate>2019-02-14 09:48:12.987 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.413000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_094812.987/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;LaunchApp &#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-14 09:50:04.344 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.215000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_095004.344/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;W_LaunchApp &#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-14 09:50:51.892 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.223000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_095051.892/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;W_LaunchApp &#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-14 09:52:17.508 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>40.186000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_095217.508/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid Parameter -- The allKeys, allModifierKeys, and allNonModifierKeys values may only be used with the KeyUp command</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-14 09:53:56.027 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>16.425000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_095356.027/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-14 09:54:41.567 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>33.366000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190214_095441.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;LaunchApp &#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-14 09:55:59.393 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>83.507000</Duration>
+  <Errors>0</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20190214_095559.393/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-25 10:14:42.880 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>28.288000</Duration>
+  <Errors>1</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190225_101442.880/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-25 10:15:38.911 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>29.205000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190225_101538.911/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2019-02-25 10:27:33.596 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>66.400000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20190225_102733.596/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

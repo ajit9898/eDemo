@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="W_ClickTransfer_script" package="nopBankWindows.suite" timestamp="2019-02-14 10:05:20.272 +0530"
+ tests="1"  failures="0" errors="0" time="3.182000">
+  <properties>
+   <property name="RunDate" value="2019-02-14 10:05:20.272 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="W_ClickTransfer.script" assertions="1" status="success"  time="3.145">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="W_EnterTAmount_script" package="nopBankWindows.suite" timestamp="2019-02-14 12:09:03.300 +0530"
+ tests="1"  failures="0" errors="0" time="6.123000">
+  <properties>
+   <property name="RunDate" value="2019-02-14 12:09:03.300 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="W_EnterTAmount.script" assertions="1" status="success"  time="6.11">
+  </testcase>
+ </testsuite>
+</testsuites>

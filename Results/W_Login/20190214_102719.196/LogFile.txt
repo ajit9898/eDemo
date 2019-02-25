@@ -1,0 +1,4 @@
+﻿2019-02-14 10:27:19.223 +0530	START		Running W_Login.script	1	execute string	(null)
+2019-02-14 10:27:22.104 +0530	click	Login	at (55, 357)	1	on_w_login	W_Login.script
+2019-02-14 10:27:25.111 +0530	EndTestCase		(Duration:"5.881", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:27:19 +0530", Successes:"1", TestCase:"W_Login.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:27:25.294 +0530	SUCCESS		Execution Time 0:00:06 W_Login.script	1	execute string	(null)

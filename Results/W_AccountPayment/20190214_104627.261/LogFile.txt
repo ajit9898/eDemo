@@ -1,0 +1,6 @@
+﻿2019-02-14 10:46:27.302 +0530	START		Running W_AccountPayment.script	1	execute string	(null)
+2019-02-14 10:46:27.307 +0530	show		remote	1	on_w_accountpayment	W_AccountPayment.script
+2019-02-14 10:46:31.100 +0530	click	Account_MakePayment	at (113, 261)	3	on_w_accountpayment	W_AccountPayment.script
+2019-02-14 10:46:31.833 +0530	typetext		123	4	on_w_accountpayment	W_AccountPayment.script
+2019-02-14 10:46:31.841 +0530	EndTestCase		(Duration:"4.532", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:46:27 +0530", Successes:"1", TestCase:"W_AccountPayment.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:46:31.998 +0530	SUCCESS		Execution Time 0:00:04 W_AccountPayment.script	1	execute string	(null)

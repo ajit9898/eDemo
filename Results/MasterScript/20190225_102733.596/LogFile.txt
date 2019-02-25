@@ -1,0 +1,11 @@
+﻿2019-02-25 10:27:33.598 +0530	START		Running MasterScript.script
+2019-02-25 10:27:33.706 +0530	connect		AjitSystem:(null)	1	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:27:33.708 +0530	show		remote	2	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:27:37.996 +0530	imagefound	chromeIcon	found at (37, 239)	3	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:27:38.108 +0530	doubleclick		at (37, 239)	4	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:27:39.436 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	11	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:27:40.161 +0530	typetext		[windowsKey][upArrow]	12	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:27:40.186 +0530	show		remote	1	on_w_username	W_Username.script
+2019-02-25 10:28:39.688 +0530	Exception	Username	No Image Found On Screen: "Username"	4	on_w_username	W_Username.script
+2019-02-25 10:28:39.998 +0530	EndTestCase		(Duration:"66.39", Errors:"1", Exceptions:"1", StartTime:"2019-02-25 10:27:33 +0530", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2019-02-25 10:28:40.171 +0530	ABORTED		Execution Time 0:01:06 MasterScript.script

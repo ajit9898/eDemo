@@ -1,0 +1,4 @@
+﻿2019-02-14 10:27:57.777 +0530	START		Running W_ConfirmMakePayment.script	1	execute string	(null)
+2019-02-14 10:28:00.888 +0530	click	MakePayment_Confirm	at (89, 268)	1	on_w_confirmmakepayment	W_ConfirmMakePayment.script
+2019-02-14 10:28:00.892 +0530	EndTestCase		(Duration:"3.112", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:27:57 +0530", Successes:"1", TestCase:"W_ConfirmMakePayment.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:28:01.115 +0530	SUCCESS		Execution Time 0:00:03 W_ConfirmMakePayment.script	1	execute string	(null)

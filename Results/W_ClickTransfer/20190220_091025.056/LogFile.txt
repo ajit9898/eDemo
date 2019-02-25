@@ -1,0 +1,6 @@
+﻿2019-02-20 09:10:25.061 +0530	START		Running W_ClickTransfer.script	1	execute string	(null)
+2019-02-20 09:10:25.081 +0530	show		remote	1	on_w_clicktransfer	W_ClickTransfer.script
+2019-02-20 09:10:30.358 +0530	LogWarning		The image Transfer.png was found on the screen 3 times	3	on_w_clicktransfer	W_ClickTransfer.script
+2019-02-20 09:10:30.441 +0530	click	Transfer.png	at (60, 370)	3	on_w_clicktransfer	W_ClickTransfer.script
+2019-02-20 09:10:30.446 +0530	EndTestCase		(Duration:"5.377", Errors:"0", Exceptions:"0", StartTime:"2019-02-20 09:10:25 +0530", Successes:"1", TestCase:"W_ClickTransfer.script", Warnings:"1")	1	execute string	(null)
+2019-02-20 09:10:30.668 +0530	SUCCESS		Execution Time 0:00:05 W_ClickTransfer.script	1	execute string	(null)

@@ -1,0 +1,4 @@
+﻿Show remote
+wait 1
+Click imageName:"SortCode", waitFor:3
+TypeText "234"

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="W_Password_script" package="nopBankWindows.suite" timestamp="2019-02-14 12:08:30.972 +0530"
+ tests="1"  failures="0" errors="0" time="11.508000">
+  <properties>
+   <property name="RunDate" value="2019-02-14 12:08:30.972 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="W_Password.script" assertions="1" status="success"  time="11.5">
+  </testcase>
+ </testsuite>
+</testsuites>

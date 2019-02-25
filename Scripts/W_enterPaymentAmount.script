@@ -1,0 +1,14 @@
+﻿Show remote
+wait 1
+Click imageName:"Amount_MakePayment", waitFor:3
+TypeText "1"
+
+
+
+
+
+
+
+
+
+

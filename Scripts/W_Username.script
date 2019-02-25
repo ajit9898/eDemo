@@ -1,0 +1,8 @@
+﻿Show remote
+wait 1
+
+Tap imageName:"Username", waitFor:3
+TypeText "user1"
+Tap "Bank"
+
+

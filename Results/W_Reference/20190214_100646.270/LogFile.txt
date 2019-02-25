@@ -1,0 +1,5 @@
+﻿2019-02-14 10:06:46.293 +0530	START		Running W_Reference.script	1	execute string	(null)
+2019-02-14 10:06:47.848 +0530	click	Reference	at (143, 489)	1	on_w_reference	W_Reference.script
+2019-02-14 10:06:48.575 +0530	typetext		23	2	on_w_reference	W_Reference.script
+2019-02-14 10:06:48.588 +0530	EndTestCase		(Duration:"2.278", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:06:46 +0530", Successes:"1", TestCase:"W_Reference.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:06:48.770 +0530	SUCCESS		Execution Time 0:00:02 W_Reference.script	1	execute string	(null)

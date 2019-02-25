@@ -1,0 +1,4 @@
+﻿Show remote
+wait 1
+Click Image:"Amount_Transfer", WaitFor:5
+TypeText "1"

@@ -1,0 +1,5 @@
+﻿2019-02-22 13:55:06.439 +0530	START		Running W_Login.script	1	execute string	(null)
+2019-02-22 13:55:06.439 +0530	show		remote	1	on_w_login	W_Login.script
+2019-02-22 13:55:08.861 +0530	click	Login	at (55, 357)	3	on_w_login	W_Login.script
+2019-02-22 13:55:11.867 +0530	EndTestCase		(Duration:"5.428", Errors:"0", Exceptions:"0", StartTime:"2019-02-22 13:55:06 +0530", Successes:"1", TestCase:"W_Login.script", Warnings:"0")	1	execute string	(null)
+2019-02-22 13:55:12.047 +0530	SUCCESS		Execution Time 0:00:05 W_Login.script	1	execute string	(null)

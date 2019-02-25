@@ -1,0 +1,5 @@
+﻿2019-02-20 09:10:45.051 +0530	START		Running W_ConfirmTransfer.script	1	execute string	(null)
+2019-02-20 09:10:45.066 +0530	show		remote	1	on_w_confirmtransfer	W_ConfirmTransfer.script
+2019-02-20 09:10:49.781 +0530	click	Transfer_Confirm	at (66, 265)	3	on_w_confirmtransfer	W_ConfirmTransfer.script
+2019-02-20 09:10:49.791 +0530	EndTestCase		(Duration:"4.728", Errors:"0", Exceptions:"0", StartTime:"2019-02-20 09:10:45 +0530", Successes:"1", TestCase:"W_ConfirmTransfer.script", Warnings:"0")	1	execute string	(null)
+2019-02-20 09:10:50.084 +0530	SUCCESS		Execution Time 0:00:04 W_ConfirmTransfer.script	1	execute string	(null)

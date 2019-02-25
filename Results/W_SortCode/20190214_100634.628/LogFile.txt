@@ -1,0 +1,5 @@
+﻿2019-02-14 10:06:34.680 +0530	START		Running W_SortCode.script	1	execute string	(null)
+2019-02-14 10:06:37.620 +0530	click	SortCode	at (119, 341)	1	on_w_sortcode	W_SortCode.script
+2019-02-14 10:06:38.358 +0530	typetext		234	2	on_w_sortcode	W_SortCode.script
+2019-02-14 10:06:38.365 +0530	EndTestCase		(Duration:"3.672", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:06:34 +0530", Successes:"1", TestCase:"W_SortCode.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:06:38.535 +0530	SUCCESS		Execution Time 0:00:04 W_SortCode.script	1	execute string	(null)

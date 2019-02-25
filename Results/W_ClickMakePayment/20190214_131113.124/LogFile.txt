@@ -1,0 +1,6 @@
+﻿2019-02-14 13:11:13.131 +0530	START		Running W_ClickMakePayment.script	1	execute string	(null)
+2019-02-14 13:11:13.159 +0530	show		remote	1	on_w_clickmakepayment	W_ClickMakePayment.script
+2019-02-14 13:11:19.597 +0530	LogWarning		The image MakePayment.png was found on the screen 3 times	3	on_w_clickmakepayment	W_ClickMakePayment.script
+2019-02-14 13:11:19.679 +0530	click	MakePayment.png	at (205, 372)	3	on_w_clickmakepayment	W_ClickMakePayment.script
+2019-02-14 13:11:19.682 +0530	EndTestCase		(Duration:"6.548", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 13:11:13 +0530", Successes:"1", TestCase:"W_ClickMakePayment.script", Warnings:"1")	1	execute string	(null)
+2019-02-14 13:11:19.809 +0530	SUCCESS		Execution Time 0:00:06 W_ClickMakePayment.script	1	execute string	(null)

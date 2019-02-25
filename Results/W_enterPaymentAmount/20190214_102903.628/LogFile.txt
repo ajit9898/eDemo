@@ -1,0 +1,5 @@
+﻿2019-02-14 10:29:03.669 +0530	START		Running W_enterPaymentAmount.script	1	execute string	(null)
+2019-02-14 10:29:05.269 +0530	click	Amount_MakePayment	at (99, 407)	1	on_w_enterpaymentamount	W_enterPaymentAmount.script
+2019-02-14 10:29:05.980 +0530	typetext		1	2	on_w_enterpaymentamount	W_enterPaymentAmount.script
+2019-02-14 10:29:05.988 +0530	EndTestCase		(Duration:"2.31", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:29:03 +0530", Successes:"1", TestCase:"W_enterPaymentAmount.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:29:06.239 +0530	SUCCESS		Execution Time 0:00:02 W_enterPaymentAmount.script	1	execute string	(null)

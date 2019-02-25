@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="W_CloseApp_script" package="nopBankWindows.suite" timestamp="2019-02-14 10:29:23.679 +0530"
+ tests="1"  failures="0" errors="0" time="0.033000">
+  <properties>
+   <property name="RunDate" value="2019-02-14 10:29:23.679 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="W_CloseApp.script" assertions="1" status="success"  time="0.026">
+  </testcase>
+ </testsuite>
+</testsuites>

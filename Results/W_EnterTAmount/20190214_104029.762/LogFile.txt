@@ -1,0 +1,6 @@
+﻿2019-02-14 10:40:29.810 +0530	START		Running W_EnterTAmount.script	1	execute string	(null)
+2019-02-14 10:40:29.815 +0530	show		remote	1	on_w_entertamount	W_EnterTAmount.script
+2019-02-14 10:40:32.816 +0530	click	Amount_Transfer	at (88, 338)	2	on_w_entertamount	W_EnterTAmount.script
+2019-02-14 10:40:33.526 +0530	typetext		1	3	on_w_entertamount	W_EnterTAmount.script
+2019-02-14 10:40:33.533 +0530	EndTestCase		(Duration:"3.717", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 10:40:29 +0530", Successes:"1", TestCase:"W_EnterTAmount.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 10:40:33.719 +0530	SUCCESS		Execution Time 0:00:04 W_EnterTAmount.script	1	execute string	(null)

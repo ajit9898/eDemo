@@ -1,0 +1,7 @@
+﻿2019-02-14 12:08:15.412 +0530	START		Running W_Username.script	1	execute string	(null)
+2019-02-14 12:08:15.417 +0530	show		remote	1	on_w_username	W_Username.script
+2019-02-14 12:08:21.042 +0530	tap	Username	at (69, 221)	4	on_w_username	W_Username.script
+2019-02-14 12:08:21.805 +0530	typetext		user1	5	on_w_username	W_Username.script
+2019-02-14 12:08:23.380 +0530	tap	Bank	at (314, 131)	6	on_w_username	W_Username.script
+2019-02-14 12:08:23.387 +0530	EndTestCase		(Duration:"7.97", Errors:"0", Exceptions:"0", StartTime:"2019-02-14 12:08:15 +0530", Successes:"1", TestCase:"W_Username.script", Warnings:"0")	1	execute string	(null)
+2019-02-14 12:08:29.200 +0530	SUCCESS		Execution Time 0:00:08 W_Username.script	1	execute string	(null)

@@ -1,0 +1,12 @@
+﻿2019-02-25 10:14:42.955 +0530	START		Running MasterScript.script
+2019-02-25 10:14:45.997 +0530	connect		AjitSystem:(null)	1	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:14:46.000 +0530	show		remote	2	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:14:46.052 +0530	typetext		[windowsKey]r	5	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:14:46.872 +0530	typetext		chrome[return]	6	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:14:50.500 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	8	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:14:51.225 +0530	typetext		[windowsKey][upArrow]	9	on_w_launchapp	W_LaunchApp.script
+2019-02-25 10:14:51.245 +0530	show		remote	1	on_w_username	W_Username.script
+2019-02-25 10:15:06.963 +0530	LogWarning		One or more search types in the ImageDoctorSearchTypes list are invalid.
+2019-02-25 10:15:10.830 +0530	Exception	Username	No Image Found On Screen: "Username"	4	on_w_username	W_Username.script
+2019-02-25 10:15:11.168 +0530	EndTestCase		(Duration:"28.143", Errors:"1", Exceptions:"1", StartTime:"2019-02-25 10:14:43 +0530", Successes:"0", TestCase:"MasterScript.script", Warnings:"1")
+2019-02-25 10:15:11.325 +0530	ABORTED		Execution Time 0:00:29 MasterScript.script

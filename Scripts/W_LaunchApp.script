@@ -1,12 +1,15 @@
 ﻿Connect"AjitSystem"
+//Connect"varun"
 Show remote
-If ImageFound(imageName:"chromeIcon", waitFor:5) then
-	DoubleClick FoundImageLocation()	
-Else
-	TypeText windowsKey,r
-	TypeText "chrome",return
-	wait 3
-End if
+
+//If ImageFound(imageName:"chromeIcon", waitFor:5) then
+//DoubleClick FoundImageLocation()	
+//Else
+TypeText windowsKey,r
+TypeText "chrome",return
+//wait 3
+//End if
+
 TypeText "http://nopcommerce.testplant.com/banking-app.html",return
 TypeText windowsKey,upArrow
 

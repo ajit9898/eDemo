@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="MasterScript_script" package="nopBankWindows.suite" timestamp="2019-02-25 14:38:10.995 +0530"
+ tests="1"  failures="0" errors="0" time="100.680000">
+  <properties>
+   <property name="RunDate" value="2019-02-25 14:38:10.995 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="MasterScript.script" assertions="1" status="success"  time="92.26">
+  </testcase>
+ </testsuite>
+</testsuites>

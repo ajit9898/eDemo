@@ -1,0 +1,9 @@
+﻿2019-02-25 14:47:58.685 +0530	START		Running MasterScript.script
+2019-02-25 14:48:03.214 +0530	connect		AjitSystem:(null)	1	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:48:03.259 +0530	typetext		[windowsKey]r	8	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:48:04.037 +0530	typetext		chrome[return]	9	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:48:05.309 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	13	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:48:06.030 +0530	typetext		[windowsKey][upArrow]	14	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:48:10.723 +0530	Exception	Username	No Image Found On Screen: "Username"	4	on_w_username	W_Username.script
+2019-02-25 14:48:10.758 +0530	EndTestCase		(Duration:"11.205", Errors:"1", Exceptions:"1", StartTime:"2019-02-25 14:47:59 +0530", Successes:"0", TestCase:"MasterScript.script", Warnings:"0")
+2019-02-25 14:48:11.586 +0530	FAILURE	Screen_Error.png	Image Not Found tap Error - No Image Found On Screen: "Username" -- Execution Time 0:00:12 MasterScript.script

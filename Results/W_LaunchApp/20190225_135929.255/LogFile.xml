@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="W_LaunchApp_script" package="nopBankWindows.suite" timestamp="2019-02-25 13:59:29.255 +0530"
+ tests="1"  failures="0" errors="0" time="9.916000">
+  <properties>
+   <property name="RunDate" value="2019-02-25 13:59:29.255 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="W_LaunchApp.script" assertions="1" status="success"  time="8.238">
+  </testcase>
+ </testsuite>
+</testsuites>

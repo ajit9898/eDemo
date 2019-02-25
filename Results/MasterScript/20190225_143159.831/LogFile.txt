@@ -1,0 +1,47 @@
+﻿2019-02-25 14:31:59.974 +0530	START		Running MasterScript.script
+2019-02-25 14:32:07.123 +0530	connect		AjitSystem:(null)	1	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:07.161 +0530	typetext		[windowsKey]r	8	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:07.939 +0530	typetext		chrome[return]	9	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:09.202 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	13	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:09.925 +0530	typetext		[windowsKey][upArrow]	14	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:15.427 +0530	tap	Username	at (69, 221)	4	on_w_username	W_Username.script
+2019-02-25 14:32:16.188 +0530	typetext		user1	5	on_w_username	W_Username.script
+2019-02-25 14:32:18.268 +0530	tap	Bank	at (314, 131)	6	on_w_username	W_Username.script
+2019-02-25 14:32:23.710 +0530	tap	Password	at (62, 297)	3	on_w_password	W_Password.script
+2019-02-25 14:32:24.465 +0530	typetext		pass1	4	on_w_password	W_Password.script
+2019-02-25 14:32:27.922 +0530	tap	Bank	at (314, 131)	5	on_w_password	W_Password.script
+2019-02-25 14:32:30.191 +0530	click	Login	at (55, 357)	3	on_w_login	W_Login.script
+2019-02-25 14:32:38.443 +0530	LogWarning		The image Transfer.png was found on the screen 3 times	3	on_w_clicktransfer	W_ClickTransfer.script
+2019-02-25 14:32:38.525 +0530	click	Transfer.png	at (60, 370)	3	on_w_clicktransfer	W_ClickTransfer.script
+2019-02-25 14:32:44.104 +0530	click	Amount_Transfer	at (88, 338)	3	on_w_entertamount	W_EnterTAmount.script
+2019-02-25 14:32:44.815 +0530	typetext		1	4	on_w_entertamount	W_EnterTAmount.script
+2019-02-25 14:32:46.385 +0530	click	Transfer_Submit	at (66, 411)	3	on_w_submittransfer	W_SubmitTransfer.script
+2019-02-25 14:32:51.858 +0530	click	Transfer_Confirm	at (66, 265)	3	on_w_confirmtransfer	W_ConfirmTransfer.script
+2019-02-25 14:32:52.896 +0530	typetext		[windowsAltKey][F4]	2	on_w_closeapp	W_CloseApp.script
+2019-02-25 14:32:52.904 +0530	connect		AjitSystem:(null)	1	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:53.618 +0530	typetext		[windowsKey]r	8	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:54.406 +0530	typetext		chrome[return]	9	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:55.670 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	13	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:32:56.391 +0530	typetext		[windowsKey][upArrow]	14	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:33:01.798 +0530	tap	Username	at (69, 221)	4	on_w_username	W_Username.script
+2019-02-25 14:33:02.553 +0530	typetext		user1	5	on_w_username	W_Username.script
+2019-02-25 14:33:03.614 +0530	tap	Bank	at (314, 131)	6	on_w_username	W_Username.script
+2019-02-25 14:33:08.942 +0530	tap	Password	at (62, 297)	3	on_w_password	W_Password.script
+2019-02-25 14:33:09.697 +0530	typetext		pass1	4	on_w_password	W_Password.script
+2019-02-25 14:33:13.005 +0530	tap	Bank	at (314, 131)	5	on_w_password	W_Password.script
+2019-02-25 14:33:15.262 +0530	click	Login	at (55, 357)	3	on_w_login	W_Login.script
+2019-02-25 14:33:23.532 +0530	LogWarning		The image MakePayment.png was found on the screen 3 times	3	on_w_clickmakepayment	W_ClickMakePayment.script
+2019-02-25 14:33:23.614 +0530	click	MakePayment.png	at (205, 372)	3	on_w_clickmakepayment	W_ClickMakePayment.script
+2019-02-25 14:33:29.155 +0530	click	Account_MakePayment	at (113, 261)	3	on_w_accountpayment	W_AccountPayment.script
+2019-02-25 14:33:29.888 +0530	typetext		123	4	on_w_accountpayment	W_AccountPayment.script
+2019-02-25 14:33:35.374 +0530	click	SortCode	at (119, 341)	3	on_w_sortcode	W_SortCode.script
+2019-02-25 14:33:36.106 +0530	typetext		234	4	on_w_sortcode	W_SortCode.script
+2019-02-25 14:33:41.568 +0530	click	Amount_MakePayment	at (99, 407)	3	on_w_enterpaymentamount	W_enterPaymentAmount.script
+2019-02-25 14:33:42.279 +0530	typetext		1	4	on_w_enterpaymentamount	W_enterPaymentAmount.script
+2019-02-25 14:33:46.916 +0530	click	Reference	at (143, 489)	3	on_w_reference	W_Reference.script
+2019-02-25 14:33:47.638 +0530	typetext		23	4	on_w_reference	W_Reference.script
+2019-02-25 14:33:50.998 +0530	click	MakePayment_Submit	at (89, 566)	3	on_w_submit_makepayment	W_Submit_MakePayment.script
+2019-02-25 14:33:56.504 +0530	click	MakePayment_Confirm	at (89, 268)	3	on_w_confirmmakepayment	W_ConfirmMakePayment.script
+2019-02-25 14:33:57.542 +0530	typetext		[windowsAltKey][F4]	2	on_w_closeapp	W_CloseApp.script
+2019-02-25 14:33:57.568 +0530	EndTestCase		(Duration:"115.761", Errors:"0", Exceptions:"0", StartTime:"2019-02-25 14:32:01 +0530", Successes:"1", TestCase:"MasterScript.script", Warnings:"2")
+2019-02-25 14:33:58.282 +0530	SUCCESS		Execution Time 0:01:58 MasterScript.script

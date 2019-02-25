@@ -1,0 +1,9 @@
+﻿2019-02-25 14:04:07.880 +0530	START		Running W_LaunchApp.script
+2019-02-25 14:04:07.974 +0530	connect		AjitSystem:(null)	1	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:04:07.977 +0530	show		remote	2	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:04:12.950 +0530	imagefound	chromeIcon	found at (37, 239)	3	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:04:13.063 +0530	doubleclick		at (37, 239)	4	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:04:14.319 +0530	typetext		http://nopcommerce.testplant.com/banking-app.html[return]	11	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:04:15.041 +0530	typetext		[windowsKey][upArrow]	12	on_w_launchapp	W_LaunchApp.script
+2019-02-25 14:04:15.190 +0530	EndTestCase		(Duration:"7.305", Errors:"0", Exceptions:"0", StartTime:"2019-02-25 14:04:07 +0530", Successes:"1", TestCase:"W_LaunchApp.script", Warnings:"0")
+2019-02-25 14:04:15.332 +0530	SUCCESS		Execution Time 0:00:08 W_LaunchApp.script

@@ -7,7 +7,6 @@ Else
 	TypeText "chrome",return
 	wait 3
 End if
-
 TypeText "http://nopcommerce.testplant.com/banking-app.html",return
 TypeText windowsKey,upArrow
 
